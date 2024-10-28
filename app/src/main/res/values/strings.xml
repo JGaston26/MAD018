@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Images">Look at all these Halloween themed images</string>
+    <string name ="ButtonText">Click to Change Images</string>
+</resources>
